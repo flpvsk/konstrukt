@@ -42,14 +42,20 @@
     (path "/cd541d08-aa8e-4180-93a3-c37a39586684/2b41262a-ce49-40d6-92c3-c07137855039"
       (reference "C?") (unit 1) (value "small??") (footprint "")
     )
-    (path "/a20b1572-4a1d-447e-be8c-a6218de04c26/73c34db3-5aad-4c43-bc1b-724bc24fa675"
-      (reference "D?") (unit 1) (value "LED_Dual_Bidirectional") (footprint "")
+    (path "/a20b1572-4a1d-447e-be8c-a6218de04c26/252b7ce1-a59f-4e1b-b0a5-0ea97ff42d6c"
+      (reference "D?") (unit 1) (value "LED_Green") (footprint "")
+    )
+    (path "/a20b1572-4a1d-447e-be8c-a6218de04c26/da962cdb-b1cf-4a77-8dee-4c29b141f5dc"
+      (reference "D?") (unit 1) (value "LED_Yellow") (footprint "")
     )
     (path "/cd541d08-aa8e-4180-93a3-c37a39586684/6647148d-8c8c-4478-9c91-47698f705480"
       (reference "Q?") (unit 1) (value "Q_PNP_EBC") (footprint "")
     )
     (path "/cd541d08-aa8e-4180-93a3-c37a39586684/053304b4-6d2e-44fa-912f-91a390d196c8"
       (reference "R?") (unit 1) (value "100K") (footprint "")
+    )
+    (path "/a20b1572-4a1d-447e-be8c-a6218de04c26/1050dbb5-1e4e-4535-8d33-d9edb343b186"
+      (reference "R?") (unit 1) (value "20K") (footprint "")
     )
     (path "/cd541d08-aa8e-4180-93a3-c37a39586684/1814c6bb-812c-44b0-9b35-6b7dde88f829"
       (reference "R?") (unit 1) (value "100K") (footprint "")
@@ -100,7 +106,10 @@
       (reference "R?") (unit 1) (value "8.2K") (footprint "")
     )
     (path "/a20b1572-4a1d-447e-be8c-a6218de04c26/fa815e82-ff87-4496-ba38-374430f37944"
-      (reference "R?") (unit 1) (value "1K") (footprint "")
+      (reference "R?") (unit 1) (value "100K") (footprint "")
+    )
+    (path "/a20b1572-4a1d-447e-be8c-a6218de04c26/ff107d2c-0d2e-4831-ade1-ae7b97e64c68"
+      (reference "R?") (unit 1) (value "330") (footprint "")
     )
     (path "/cd541d08-aa8e-4180-93a3-c37a39586684/002006de-84f4-4c9a-8275-c47c18f21d2a"
       (reference "RV?") (unit 1) (value "1K") (footprint "")
