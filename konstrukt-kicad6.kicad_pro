@@ -453,6 +453,18 @@
     [
       "93a5b5c3-c24b-42f5-922e-fb2e489b2874",
       "2xAttenuverters3"
+    ],
+    [
+      "83a74dc0-6079-45b8-a4be-0797c3d28006",
+      "VCF"
+    ],
+    [
+      "55105d8f-0df9-4d9a-b1b9-2099075188d8",
+      "VCF CV Ins"
+    ],
+    [
+      "e859ea48-2399-46ea-81c3-33bbb9c73f68",
+      "VCF Audio Outs"
     ]
   ],
   "text_variables": {}
