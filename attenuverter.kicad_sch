@@ -1238,7 +1238,11 @@
     (uuid fc426c41-3e45-4831-ba5a-9096e8fef171)
   )
 
-  (text "100K/30p makes a LPF\nwith a cutoff of 53kHz,\nwell above audio rate."
+  (text "Attenuverters" (at 15.24 16.51 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b50c553f-f667-427a-897c-b204687f12cd)
+  )
+  (text "100K/10p makes a LPF\nwith a cutoff of 160kHz,\nwell above audio rate."
     (at 33.02 25.4 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b6f9e3d6-d342-4f0e-b202-37b9c63b53b7)
