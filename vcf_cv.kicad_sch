@@ -768,7 +768,7 @@
     (uuid ff3e04f0-9c2a-4d3a-8c49-fcae83973a8f)
   )
 
-  (text "Limit min voltage to +4.5V" (at 63.5 45.72 0)
+  (text "Limits min voltage to +4.5V" (at 63.5 45.72 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1c745de3-081c-401a-ab06-6d1c9dce81e4)
   )
