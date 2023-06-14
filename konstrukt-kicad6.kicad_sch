@@ -48,6 +48,7 @@
   )
 
 
+
   (wire (pts (xy 146.05 35.56) (xy 148.59 35.56))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0ac5096b-939a-4d72-a591-88379978fffd)
@@ -470,6 +471,9 @@
     (path "/cd541d08-aa8e-4180-93a3-c37a39586684/ff9ef303-8574-4f31-9f23-1f666deecb1a"
       (reference "C208") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
+    (path "/cd541d08-aa8e-4180-93a3-c37a39586684/f5c4ccc3-71a1-4202-bc9d-e73dc5e7276e"
+      (reference "C209") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
     (path "/a20b1572-4a1d-447e-be8c-a6218de04c26/4c45c571-e206-437f-b692-ee4c0ba02415"
       (reference "C301") (unit 1) (value "10p") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
@@ -594,7 +598,7 @@
       (reference "C901") (unit 1) (value "100p") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/c54f85db-45af-43e9-b7d3-42165f47e872"
-      (reference "C902") (unit 1) (value "10p") (footprint "")
+      (reference "C902") (unit 1) (value "10p") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/04f5e390-eb36-49bc-a458-ee6cc9bd3f74"
       (reference "C903") (unit 1) (value "100p") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -606,7 +610,7 @@
       (reference "C905") (unit 1) (value "10p") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/87437d85-f8e4-4853-8b49-e5156098b111"
-      (reference "C906") (unit 1) (value "10p") (footprint "")
+      (reference "C906") (unit 1) (value "10p") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/4d735147-b475-4f9a-918f-458c1ec86b5e"
       (reference "C907") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -1469,38 +1473,38 @@
     (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/c3791921-76c8-4fbc-9429-3ac68f491c73"
       (reference "RV904") (unit 1) (value "1K") (footprint "Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical")
     )
-    (path "/cd541d08-aa8e-4180-93a3-c37a39586684/8ee80077-4be8-4985-96f5-73fe0feb5ac1"
+    (path "/cd541d08-aa8e-4180-93a3-c37a39586684/9023f524-7a66-4c22-898d-180ce353a7e9"
       (reference "U201") (unit 1) (value "LM13700") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
-    (path "/cd541d08-aa8e-4180-93a3-c37a39586684/3b8b2d08-b1d6-41f8-8d3a-ed412635442f"
+    (path "/cd541d08-aa8e-4180-93a3-c37a39586684/bd54bb00-f89b-4f8b-a7e3-c5eb11570bcc"
       (reference "U201") (unit 2) (value "LM13700") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
-    (path "/cd541d08-aa8e-4180-93a3-c37a39586684/9023f524-7a66-4c22-898d-180ce353a7e9"
+    (path "/cd541d08-aa8e-4180-93a3-c37a39586684/8ee80077-4be8-4985-96f5-73fe0feb5ac1"
       (reference "U201") (unit 3) (value "LM13700") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
-    (path "/cd541d08-aa8e-4180-93a3-c37a39586684/bd54bb00-f89b-4f8b-a7e3-c5eb11570bcc"
+    (path "/cd541d08-aa8e-4180-93a3-c37a39586684/3b8b2d08-b1d6-41f8-8d3a-ed412635442f"
       (reference "U201") (unit 4) (value "LM13700") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/cd541d08-aa8e-4180-93a3-c37a39586684/354b1457-7c3f-4177-9f86-879f6db35e5c"
       (reference "U201") (unit 5) (value "LM13700") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/cd541d08-aa8e-4180-93a3-c37a39586684/84cc4aaf-84da-479e-a627-c1dddcdf5057"
-      (reference "U202") (unit 1) (value "MCP6002") (footprint "")
+      (reference "U202") (unit 1) (value "MCP6002") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/cd541d08-aa8e-4180-93a3-c37a39586684/15c212c2-e3c5-4c38-ad98-05c849b829c3"
-      (reference "U202") (unit 2) (value "MCP6002") (footprint "")
+      (reference "U202") (unit 2) (value "MCP6002") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/cd541d08-aa8e-4180-93a3-c37a39586684/7cb3f53e-8613-4b40-a5d5-596094199a69"
-      (reference "U202") (unit 3) (value "MCP6002") (footprint "")
+      (reference "U202") (unit 3) (value "MCP6002") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/cd541d08-aa8e-4180-93a3-c37a39586684/fb0def23-2f9b-4a4e-853f-c1301711ea93"
-      (reference "U203") (unit 1) (value "TL072") (footprint "")
+      (reference "U203") (unit 1) (value "TL072") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/cd541d08-aa8e-4180-93a3-c37a39586684/aa7f549f-75c8-4f03-a229-7f834af45401"
-      (reference "U203") (unit 2) (value "TL072") (footprint "")
+      (reference "U203") (unit 2) (value "TL072") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/cd541d08-aa8e-4180-93a3-c37a39586684/21f5b266-4907-4f84-ace8-b8a92e96c8e1"
-      (reference "U203") (unit 3) (value "TL072") (footprint "")
+      (reference "U203") (unit 3) (value "TL072") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/a20b1572-4a1d-447e-be8c-a6218de04c26/f8302bd9-1786-4d45-b3d2-daa4da3578bd"
       (reference "U301") (unit 1) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
