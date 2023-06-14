@@ -86,7 +86,7 @@
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_over_copper": "ignore",
-        "silk_overlap": "warning",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -440,7 +440,7 @@
     ],
     [
       "cd541d08-aa8e-4180-93a3-c37a39586684",
-      "VCA-LM13700"
+      "2xAudio VCA"
     ],
     [
       "a20b1572-4a1d-447e-be8c-a6218de04c26",
@@ -465,6 +465,18 @@
     [
       "e859ea48-2399-46ea-81c3-33bbb9c73f68",
       "VCF Audio Outs"
+    ],
+    [
+      "a4819c5e-2758-41f5-9c6b-c3ac3eddd71c",
+      "2xCV VCA & 2xMixer"
+    ],
+    [
+      "99dd6724-fc25-4a4b-bbba-d748da623afb",
+      "CV VCA Mixer IO"
+    ],
+    [
+      "495e09e0-d672-47d1-b3a2-deb613d2ab93",
+      "Audio VCA IO"
     ]
   ],
   "text_variables": {}
