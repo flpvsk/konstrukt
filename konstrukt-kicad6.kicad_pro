@@ -477,6 +477,10 @@
     [
       "495e09e0-d672-47d1-b3a2-deb613d2ab93",
       "Audio VCA IO"
+    ],
+    [
+      "24cea508-00bf-40f2-be10-0c1e31c925bf",
+      "Envelope Follower"
     ]
   ],
   "text_variables": {}
