@@ -1890,7 +1890,7 @@
     (pin "6" (uuid d4a2c611-6884-4efa-b1ef-fe50e97af023))
   )
 
-  (symbol (lib_id "Amplifier_Operational:LM13700") (at 215.9 48.26 0) (unit 3)
+  (symbol (lib_id "Amplifier_Operational:LM13700") (at 215.9 48.26 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 252a31cc-413c-4244-95d1-456cb6217f9d)
     (property "Reference" "U903" (id 0) (at 215.9 38.1 0))
@@ -2074,7 +2074,7 @@
     (pin "2" (uuid 2e7eb137-0877-432e-8761-1fe445354711))
   )
 
-  (symbol (lib_id "Amplifier_Operational:MCP6004") (at 219.71 157.48 0) (mirror x) (unit 4)
+  (symbol (lib_id "Amplifier_Operational:MCP6004") (at 219.71 157.48 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 57d6398b-c1fb-4634-b668-c599f307b110)
     (property "Reference" "U902" (id 0) (at 219.71 147.32 0))
@@ -2268,7 +2268,7 @@
     (pin "2" (uuid 8fe7a20d-d92f-4ddd-84b1-e1222c0cae93))
   )
 
-  (symbol (lib_id "Amplifier_Operational:MCP6004") (at 134.62 134.62 0) (mirror x) (unit 2)
+  (symbol (lib_id "Amplifier_Operational:MCP6004") (at 134.62 134.62 0) (mirror x) (unit 4)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7a6289f2-1fca-49ce-8127-6f3d20f15daa)
     (property "Reference" "U902" (id 0) (at 134.62 124.46 0))
@@ -2344,7 +2344,7 @@
     (pin "2" (uuid 82abbfdb-d2d1-4b04-a4f4-7aa83256fce6))
   )
 
-  (symbol (lib_id "Amplifier_Operational:LM13700") (at 90.17 48.26 0) (unit 1)
+  (symbol (lib_id "Amplifier_Operational:LM13700") (at 90.17 48.26 0) (unit 3)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8ec9ac79-faa2-40b7-9631-61cb76e3b108)
     (property "Reference" "U903" (id 0) (at 90.17 38.1 0))
@@ -2504,7 +2504,7 @@
     (pin "2" (uuid 56d86583-b64d-4577-bd98-a6ffe58f7b19))
   )
 
-  (symbol (lib_id "Amplifier_Operational:MCP6004") (at 53.34 133.35 0) (mirror x) (unit 1)
+  (symbol (lib_id "Amplifier_Operational:MCP6004") (at 53.34 133.35 0) (mirror x) (unit 3)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ba096e0b-d176-4e93-81d3-73109938ff4a)
     (property "Reference" "U902" (id 0) (at 53.34 123.19 0))
@@ -2692,7 +2692,7 @@
     (pin "2" (uuid ae7a937a-ba25-4106-a64d-798353d8e7d6))
   )
 
-  (symbol (lib_id "Amplifier_Operational:MCP6004") (at 219.71 111.76 0) (mirror x) (unit 3)
+  (symbol (lib_id "Amplifier_Operational:MCP6004") (at 219.71 111.76 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid de96627c-7b82-40f2-94c1-7811bd4d61b4)
     (property "Reference" "U902" (id 0) (at 219.71 101.6 0))

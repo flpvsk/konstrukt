@@ -1679,28 +1679,28 @@
     (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/16cba6f4-105c-469b-97e2-2b8209d95070"
       (reference "U901") (unit 5) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/ba096e0b-d176-4e93-81d3-73109938ff4a"
+    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/de96627c-7b82-40f2-94c1-7811bd4d61b4"
       (reference "U902") (unit 1) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/7a6289f2-1fca-49ce-8127-6f3d20f15daa"
+    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/57d6398b-c1fb-4634-b668-c599f307b110"
       (reference "U902") (unit 2) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/de96627c-7b82-40f2-94c1-7811bd4d61b4"
+    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/ba096e0b-d176-4e93-81d3-73109938ff4a"
       (reference "U902") (unit 3) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/57d6398b-c1fb-4634-b668-c599f307b110"
+    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/7a6289f2-1fca-49ce-8127-6f3d20f15daa"
       (reference "U902") (unit 4) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/2b40e650-713a-45c2-827b-23f71a2a6f4b"
       (reference "U902") (unit 5) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/8ec9ac79-faa2-40b7-9631-61cb76e3b108"
+    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/252a31cc-413c-4244-95d1-456cb6217f9d"
       (reference "U903") (unit 1) (value "LM13700") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/cd85ee9a-52a3-4e9a-9f03-2be8f2b48018"
       (reference "U903") (unit 2) (value "LM13700") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
-    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/252a31cc-413c-4244-95d1-456cb6217f9d"
+    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/8ec9ac79-faa2-40b7-9631-61cb76e3b108"
       (reference "U903") (unit 3) (value "LM13700") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/2529eb24-abb7-49cd-98e6-53d752fc7769"
