@@ -48,7 +48,6 @@
   )
 
 
-
   (wire (pts (xy 146.05 35.56) (xy 148.59 35.56))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0ac5096b-939a-4d72-a591-88379978fffd)
@@ -1674,7 +1673,7 @@
     (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/0a8b3503-1d6c-4ccd-aafe-8cc3a1f0deb7"
       (reference "U901") (unit 3) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/57d6398b-c1fb-4634-b668-c599f307b110"
+    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/e45e77f8-dda2-4ff5-a638-16af4e722b4e"
       (reference "U901") (unit 4) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/16cba6f4-105c-469b-97e2-2b8209d95070"
@@ -1689,7 +1688,7 @@
     (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/de96627c-7b82-40f2-94c1-7811bd4d61b4"
       (reference "U902") (unit 3) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/e45e77f8-dda2-4ff5-a638-16af4e722b4e"
+    (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/57d6398b-c1fb-4634-b668-c599f307b110"
       (reference "U902") (unit 4) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/a4819c5e-2758-41f5-9c6b-c3ac3eddd71c/2b40e650-713a-45c2-827b-23f71a2a6f4b"
