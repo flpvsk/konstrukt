@@ -481,6 +481,18 @@
     [
       "24cea508-00bf-40f2-be10-0c1e31c925bf",
       "Envelope Follower"
+    ],
+    [
+      "b4f901f3-0f4b-4453-80ec-22926e8de19d",
+      "2xDelay"
+    ],
+    [
+      "4e6e03c5-71e2-4c20-b789-7d8450cc5ff5",
+      "Delay1 Base"
+    ],
+    [
+      "d61dcb87-71e3-4c58-b355-c77acc380efe",
+      "Delay2 Base"
     ]
   ],
   "text_variables": {}
