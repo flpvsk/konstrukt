@@ -493,6 +493,30 @@
     [
       "d61dcb87-71e3-4c58-b355-c77acc380efe",
       "Delay2 Base"
+    ],
+    [
+      "a3232e87-02a8-4494-aee1-78daaabdf66b",
+      "Mixer&Crossfader1"
+    ],
+    [
+      "5868fdf0-a91c-439d-ae29-abf7e53f7df3",
+      "InputBuffers1"
+    ],
+    [
+      "dfc8c8af-3cdc-49b3-a7dc-0e8bf3522045",
+      "InputBuffers2"
+    ],
+    [
+      "0ff4357f-654a-4066-8360-ece20e842a46",
+      "Mixer&Crossfader2"
+    ],
+    [
+      "5868fdf0-a91c-439d-ae29-abf7e53f7df3",
+      "InputBuffers1"
+    ],
+    [
+      "dfc8c8af-3cdc-49b3-a7dc-0e8bf3522045",
+      "InputBuffers2"
     ]
   ],
   "text_variables": {}
