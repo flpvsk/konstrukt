@@ -517,6 +517,14 @@
     [
       "dfc8c8af-3cdc-49b3-a7dc-0e8bf3522045",
       "InputBuffers2"
+    ],
+    [
+      "ad75db84-525e-4bea-ba57-40c5b01877be",
+      "LFO"
+    ],
+    [
+      "100c0ce9-e95a-4dde-b287-8eb05bec70c8",
+      "LFO CV Inputs"
     ]
   ],
   "text_variables": {}

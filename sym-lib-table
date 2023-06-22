@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "R0904NB10KL-25KQ")(type "KiCad")(uri "${KIPRJMOD}/lib/R0904NB10KL-25KQ/R0904NB10KL-25KQ.kicad_sym")(options "")(descr ""))
+  (lib (name "stomplfo")(type "KiCad")(uri "${KIPRJMOD}/lib/stomplfo/stomplfo.kicad_sym")(options "")(descr ""))
 )
