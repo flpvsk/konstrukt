@@ -525,6 +525,10 @@
     [
       "100c0ce9-e95a-4dde-b287-8eb05bec70c8",
       "LFO CV Inputs"
+    ],
+    [
+      "e3eb3ee3-e01f-4cf2-86e7-59c5b99b0644",
+      "Relay switch"
     ]
   ],
   "text_variables": {}
