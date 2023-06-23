@@ -2240,6 +2240,12 @@
     (path "/24cea508-00bf-40f2-be10-0c1e31c925bf/50603c66-22c2-4075-b80f-b299fc5c493e"
       (reference "R1221") (unit 1) (value "1K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
+    (path "/24cea508-00bf-40f2-be10-0c1e31c925bf/35d6a308-57bc-4017-9ae3-7eaeda1b2b19"
+      (reference "R1222") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/24cea508-00bf-40f2-be10-0c1e31c925bf/bae12038-2e1b-4060-b3a7-deb77813357f"
+      (reference "R1223") (unit 1) (value "27K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
     (path "/b4f901f3-0f4b-4453-80ec-22926e8de19d/5a3e88d9-a938-4ef4-9482-1b1fa5e5f7a7"
       (reference "R1301") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
