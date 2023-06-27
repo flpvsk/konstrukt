@@ -533,6 +533,10 @@
     [
       "5688bd2e-1a10-4be1-8ba7-5743ce74c73e",
       "Tone control"
+    ],
+    [
+      "eaf76a39-ac31-4822-883b-22b49c13eb7a",
+      "VC Limiter"
     ]
   ],
   "text_variables": {}
