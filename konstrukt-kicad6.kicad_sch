@@ -1767,40 +1767,40 @@
       (reference "D2606") (unit 1) (value "D_TVS") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
     )
     (path "/a20b1572-4a1d-447e-be8c-a6218de04c26/61bd750c-d666-47c5-a035-f0b3fb6f4f6e"
-      (reference "H301") (unit 1) (value "${SHEETNAME}_1_In") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
+      (reference "H301") (unit 1) (value "In1") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
     )
     (path "/a20b1572-4a1d-447e-be8c-a6218de04c26/e33e5532-e0e5-476f-843a-917cc002438f"
-      (reference "H302") (unit 1) (value "${SHEETNAME}_1_Out") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
+      (reference "H302") (unit 1) (value "Out1") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
     )
     (path "/a20b1572-4a1d-447e-be8c-a6218de04c26/a38aafa9-7b28-424a-8443-87debfc3f21d"
-      (reference "H303") (unit 1) (value "${SHEETNAME}_2_In") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
+      (reference "H303") (unit 1) (value "In2") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
     )
     (path "/a20b1572-4a1d-447e-be8c-a6218de04c26/8748612c-7cdf-4336-9478-d7409bea2883"
-      (reference "H304") (unit 1) (value "${SHEETNAME}_2_Out") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
+      (reference "H304") (unit 1) (value "Out2") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
     )
     (path "/d5154897-cd7d-47bd-ab02-053d29d438d1/61bd750c-d666-47c5-a035-f0b3fb6f4f6e"
-      (reference "H401") (unit 1) (value "${SHEETNAME}_1_In") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
+      (reference "H401") (unit 1) (value "In1") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
     )
     (path "/d5154897-cd7d-47bd-ab02-053d29d438d1/e33e5532-e0e5-476f-843a-917cc002438f"
-      (reference "H402") (unit 1) (value "${SHEETNAME}_1_Out") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
+      (reference "H402") (unit 1) (value "Out1") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
     )
     (path "/d5154897-cd7d-47bd-ab02-053d29d438d1/a38aafa9-7b28-424a-8443-87debfc3f21d"
-      (reference "H403") (unit 1) (value "${SHEETNAME}_2_In") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
+      (reference "H403") (unit 1) (value "In2") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
     )
     (path "/d5154897-cd7d-47bd-ab02-053d29d438d1/8748612c-7cdf-4336-9478-d7409bea2883"
-      (reference "H404") (unit 1) (value "${SHEETNAME}_2_Out") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
+      (reference "H404") (unit 1) (value "Out2") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
     )
     (path "/93a5b5c3-c24b-42f5-922e-fb2e489b2874/61bd750c-d666-47c5-a035-f0b3fb6f4f6e"
-      (reference "H501") (unit 1) (value "${SHEETNAME}_1_In") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
+      (reference "H501") (unit 1) (value "In1") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
     )
     (path "/93a5b5c3-c24b-42f5-922e-fb2e489b2874/e33e5532-e0e5-476f-843a-917cc002438f"
-      (reference "H502") (unit 1) (value "${SHEETNAME}_1_Out") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
+      (reference "H502") (unit 1) (value "Out1") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
     )
     (path "/93a5b5c3-c24b-42f5-922e-fb2e489b2874/a38aafa9-7b28-424a-8443-87debfc3f21d"
-      (reference "H503") (unit 1) (value "${SHEETNAME}_2_In") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
+      (reference "H503") (unit 1) (value "In2") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
     )
     (path "/93a5b5c3-c24b-42f5-922e-fb2e489b2874/8748612c-7cdf-4336-9478-d7409bea2883"
-      (reference "H504") (unit 1) (value "${SHEETNAME}_2_Out") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
+      (reference "H504") (unit 1) (value "Out2") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
     )
     (path "/83a74dc0-6079-45b8-a4be-0797c3d28006/46f89800-404e-488a-82be-9c18e49c39a7"
       (reference "H601") (unit 1) (value "Main_Out") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom")
