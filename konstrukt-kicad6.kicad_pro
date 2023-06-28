@@ -541,6 +541,10 @@
     [
       "ad6361e5-7484-40bf-8d91-2a7eba3a1e4c",
       "Slew limiter"
+    ],
+    [
+      "e28f6215-25d3-404f-a4ff-7314b3a215a8",
+      "PSU"
     ]
   ],
   "text_variables": {}
