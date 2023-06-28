@@ -537,6 +537,10 @@
     [
       "eaf76a39-ac31-4822-883b-22b49c13eb7a",
       "VC Limiter"
+    ],
+    [
+      "ad6361e5-7484-40bf-8d91-2a7eba3a1e4c",
+      "Slew limiter"
     ]
   ],
   "text_variables": {}
