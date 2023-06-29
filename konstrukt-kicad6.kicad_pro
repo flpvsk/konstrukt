@@ -545,6 +545,10 @@
     [
       "e28f6215-25d3-404f-a4ff-7314b3a215a8",
       "PSU"
+    ],
+    [
+      "6376e201-fceb-44d3-855b-e3341c383bcc",
+      "Audio Jacks"
     ]
   ],
   "text_variables": {}
