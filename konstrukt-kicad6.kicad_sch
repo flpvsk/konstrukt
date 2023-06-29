@@ -108,6 +108,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 45aec5c7-78ff-45d9-9d5a-3166bcb3b593)
   )
+  (wire (pts (xy 270.51 20.32) (xy 270.51 25.4))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 486ec1b5-9434-4c03-b4d8-d02ac56ef942)
+  )
   (wire (pts (xy 265.43 45.72) (xy 265.43 53.34))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 48dcb2b0-a3ea-4fbb-b46d-baefbd325681)
@@ -376,6 +380,10 @@
   (label "+9Vd" (at 25.4 161.29 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 4b1c1050-a58c-4397-aa00-a2fee2d16c71)
+  )
+  (label "+9Vd" (at 270.51 20.32 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 5149738b-1b89-482d-b5af-f8754fa29441)
   )
   (label "+9V" (at 156.21 20.32 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
@@ -879,6 +887,10 @@
     (pin "+4.5V" input (at 257.81 35.56 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid a6cd5311-daae-4018-aceb-e87afa79bd5b)
+    )
+    (pin "+9Vd" input (at 270.51 25.4 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 99a1ab7e-5946-4b72-b530-481653b26b34)
     )
   )
 
@@ -1591,8 +1603,8 @@
     (path "/e28f6215-25d3-404f-a4ff-7314b3a215a8/479c2fa4-beb0-4cbf-b894-ce8204a06dd8"
       (reference "C2804") (unit 1) (value "100n") (footprint "Capacitor_SMD:CP_Elec_4x5.4")
     )
-    (path "/e28f6215-25d3-404f-a4ff-7314b3a215a8/0a4ae053-d382-4ab1-a397-64995e3d7dc5"
-      (reference "C2805") (unit 1) (value "10n") (footprint "Capacitor_SMD:CP_Elec_6.3x5.3")
+    (path "/e28f6215-25d3-404f-a4ff-7314b3a215a8/ba675edf-7a66-4301-bbe2-8249a51d9072"
+      (reference "C2805") (unit 1) (value "22u") (footprint "Capacitor_SMD:CP_Elec_6.3x5.3")
     )
     (path "/e28f6215-25d3-404f-a4ff-7314b3a215a8/cebef319-7a65-47bf-9e3a-61121d88d185"
       (reference "C2806") (unit 1) (value "10n") (footprint "Capacitor_SMD:CP_Elec_6.3x5.3")

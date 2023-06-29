@@ -1360,7 +1360,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid f92963c7-eb4e-4a3e-a38b-e1820c3163f5)
   )
-  (hierarchical_label "+9V" (shape input) (at 242.57 21.59 90)
+  (hierarchical_label "+9Vd" (shape input) (at 242.57 21.59 90)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid f94f363c-6d02-4372-a8a4-d4e4259fbc99)
   )
