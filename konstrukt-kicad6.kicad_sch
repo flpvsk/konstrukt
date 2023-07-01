@@ -4088,10 +4088,10 @@
     (path "/a3232e87-02a8-4494-aee1-78daaabdf66b/fe21391c-4870-4f0e-a4f8-e382660857cd"
       (reference "U1601") (unit 3) (value "TL072") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
-    (path "/a3232e87-02a8-4494-aee1-78daaabdf66b/5868fdf0-a91c-439d-ae29-abf7e53f7df3/2e6832cf-7e09-42db-bc69-cfdb629de5df"
+    (path "/a3232e87-02a8-4494-aee1-78daaabdf66b/5868fdf0-a91c-439d-ae29-abf7e53f7df3/8c2c24e9-cdcf-4d84-8436-a93a52eaecf4"
       (reference "U1701") (unit 1) (value "TL072") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
-    (path "/a3232e87-02a8-4494-aee1-78daaabdf66b/5868fdf0-a91c-439d-ae29-abf7e53f7df3/8c2c24e9-cdcf-4d84-8436-a93a52eaecf4"
+    (path "/a3232e87-02a8-4494-aee1-78daaabdf66b/5868fdf0-a91c-439d-ae29-abf7e53f7df3/2e6832cf-7e09-42db-bc69-cfdb629de5df"
       (reference "U1701") (unit 2) (value "TL072") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/a3232e87-02a8-4494-aee1-78daaabdf66b/5868fdf0-a91c-439d-ae29-abf7e53f7df3/dd97f24e-71eb-4058-aad2-a1ec4b0fc8e0"
@@ -4115,10 +4115,10 @@
     (path "/0ff4357f-654a-4066-8360-ece20e842a46/fe21391c-4870-4f0e-a4f8-e382660857cd"
       (reference "U1901") (unit 3) (value "TL072") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
-    (path "/0ff4357f-654a-4066-8360-ece20e842a46/5868fdf0-a91c-439d-ae29-abf7e53f7df3/2e6832cf-7e09-42db-bc69-cfdb629de5df"
+    (path "/0ff4357f-654a-4066-8360-ece20e842a46/5868fdf0-a91c-439d-ae29-abf7e53f7df3/8c2c24e9-cdcf-4d84-8436-a93a52eaecf4"
       (reference "U2001") (unit 1) (value "TL072") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
-    (path "/0ff4357f-654a-4066-8360-ece20e842a46/5868fdf0-a91c-439d-ae29-abf7e53f7df3/8c2c24e9-cdcf-4d84-8436-a93a52eaecf4"
+    (path "/0ff4357f-654a-4066-8360-ece20e842a46/5868fdf0-a91c-439d-ae29-abf7e53f7df3/2e6832cf-7e09-42db-bc69-cfdb629de5df"
       (reference "U2001") (unit 2) (value "TL072") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/0ff4357f-654a-4066-8360-ece20e842a46/5868fdf0-a91c-439d-ae29-abf7e53f7df3/dd97f24e-71eb-4058-aad2-a1ec4b0fc8e0"
